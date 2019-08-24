@@ -33,6 +33,34 @@ public class Demo{
 	System.out.println(Arrays.toString(array));
 	System.out.println(count);
 }
+
+class  AI{
+	public static void main （String[] args）{
+		Scanner sc = new Scanner(System.in);
+		String str;
+		while(true){
+			str = sc.next();	
+			str = str.replace(target: "吗", replacement：“haode  ”);
+	
+			System.out.println(str);
+			}
+	}
+         }
+
+class wordSet{    }
+
+
+
+class word{
+                String strIn;
+	String strOut;   
+                word(){}
+	public String checkWord(String s1, String s2, boolean status, int flag)
+	   {
+	
+                void showResult( String  result){
+		System.out.println(result);
+                }
 ## 支持
 1.项目还会持续更新。
 
