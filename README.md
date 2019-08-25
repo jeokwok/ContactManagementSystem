@@ -61,6 +61,13 @@ class word{
                 void showResult( String  result){
 		System.out.println(result);
                 }
+		
+intetface C{
+    public void showNumber();
+  
+}
+
+
 ## 支持
 1.项目还会持续更新。
 
